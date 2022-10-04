@@ -1,4 +1,5 @@
 # Rafe Daniels
+Just a file to be displayed on my profile
 
 ### 👋 Who am I?
 Hey! I'm **Rafe Daniels** and I am a professional developer.
@@ -9,22 +10,34 @@ Hey! I'm **Rafe Daniels** and I am a professional developer.
 - [CCNA Certification] Cisco
 
 ### 🌱 My proyects
+Minecraft:
 - RafeClient (Minecraft Cheat Client/Utiity Mod) **Under Development**
-- RafeMC (Minecraft Network) **Under Development**
+- RafeMC (Minecraft Server) **Abandoned**
+- RubiCraft Network (Minecraft Server) discord.gg/rubicraft **spanish**
+
+Roblox:
+- RHub (Roblox exploiting hub)
+- REx (Roblox Exploit Executor) **Keyless, Abandoned**
+
+Ethical Hacking:
 - The Hacking Toolkit (Ethical Hacking Toolset) [Direct Link](https://github.com/RafaTech-Dev/the-hacking-toolkit)
+
+Organizations:
+- RafeCheats
+- Rafe Daniels Industries **Un official**
 
 ### 💞️ Programming Languages
 I currently code in:
 - JavaScript (NodeJS, React, Vue.js, Discord.JS)
-- LUA
-- C#
-- C++
+- LUA (And LUAU)
+- VBA (Visual Basic) **I dont code in VBA anymore**
+- C# 
+- C++ **learning**
 - Java
-- HTML
-- CSS
-- PHP
+- Web Langs: CSS, HTML, PHP
 - SQL
 - Python
+- Go **learning**
 
 ### 📫 Contact
 Contact me on Discord: Rafe Daniels#6112
@@ -39,5 +52,6 @@ I accept the following types of proyects:
 - Backend development
 - Discord Bots & Artificial Intelligence
 - Minecraft Server & Client development
+- Roblox Script Development
 
 **I reserve the right to deny/accept any jobs for any reason**
